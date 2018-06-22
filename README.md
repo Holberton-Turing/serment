@@ -2,7 +2,7 @@
 
 **Le Serment Holberton-Turing** a ete initié dans l'objectif de fédérer et mettre en conscience tout professionnel du domaine de l'Intelligence Artificielle, au niveau mondial, autour de valeurs morales et éthiques communes afin de les inviter à utiliser leurs compétences dans le respect de l'humain en évitant toute menace à la vie.
 
-L'Intelligence Artificielle est devenue en peu de temps un élément important de progrès et d'innovation dans la plupart des domaines et bientôt dans toute notre économie, de l'ingénierie a l'éducation, de la médecine au journalisme, de l'économie au marketing, de la finance a l'agriculture ou encore aux sciences sociales, aucune métier ne sera pas transformé en profondeur par l'Intelligence Artificielle.
+L'Intelligence Artificielle est devenue en peu de temps un élément important de progrès et d'innovation dans la plupart des domaines et bientôt dans toute notre économie, de l'ingénierie a l'éducation, de la médecine au journalisme, de l'économie au marketing, de la finance a l'agriculture ou encore aux sciences sociales, aucun métier ne sera pas transformé en profondeur par l'Intelligence Artificielle.
 
 En tant que professionnels de l'Intelligence Artificielle, nous avons le devoir, en étroite collaboration avec les citoyens, les entreprises et les gouvernements, de rendre celle-ci la plus sûre et inclusive sans distinction d'ethnicité, de sexe, de culture, de langue, d'orientation sexuelle ou d'âge.
 
